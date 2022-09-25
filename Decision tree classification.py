@@ -4,7 +4,7 @@ Created on Fri Sep 23 15:05:21 2022
 
 @author: Muqeet
 """
-#classification of deciison tre
+#classification of deciison tree
 
 import numpy as np
 import pandas as pd
